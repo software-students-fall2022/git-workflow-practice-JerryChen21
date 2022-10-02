@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://philip.greenspun.com/ancient-history/professionalism-for-software-engineers
+
+
+This passage tells me what a professional programmer should do and what we can do to become a good programmer.
